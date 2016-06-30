@@ -1,0 +1,4 @@
+*.suo
+*.csproj.user
+arg_parser/bin/
+arg_parser/obj/
