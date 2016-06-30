@@ -11,6 +11,11 @@ namespace arg_parser
         {
             foreach (string arg in args)
             {
+                if (arg == "dunno")
+                {
+                    bool hug = false;
+                }
+
                 Console.WriteLine(arg);
             }
 
