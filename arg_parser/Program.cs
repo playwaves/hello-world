@@ -13,7 +13,7 @@ namespace arg_parser
             {
                 if (arg == "dunno")
                 {
-                    bool hug = true;
+                    bool hug = false;
                 }
 
                 Console.WriteLine(arg);
